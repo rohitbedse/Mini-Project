@@ -30,7 +30,7 @@ PDF → Text Extraction → Chunking → Embedding → FAISS Index
 
 ## 🚀 Demo
 
-<img href="demo.png" width="800">
+<img src="demo.png" width="800">
 
 > Simple UI to upload files, select topics, and chat with knowledge stored in your PDFs.
 
